@@ -5,3 +5,6 @@ for i in range(3):
 	print("Nice to meet you!")
 	print("same here")
 print (math.sqrt(25))
+
+
+#####Thank you for the github tutorial. It made a lot easier to get started with git and stuff#####
